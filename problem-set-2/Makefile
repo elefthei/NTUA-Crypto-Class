@@ -1,4 +1,4 @@
-target=ps1
+target=ps2
 
 $(target).pdf: $(target).tex
 	xelatex $(target).tex
